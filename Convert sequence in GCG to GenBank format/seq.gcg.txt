@@ -1,0 +1,28 @@
+!!NA_SEQUENCE 1.0
+
+H.sapiens fau mRNA
+
+HSFAU  Length: 518  Type: N  Check: 2981 ..
+
+   1 ttcctctttc tcgactccat cttcgcggta gctgggaccg ccgttcagtc
+
+  51 gccaatatgc agctctttgt ccgcgcccag gagctacaca ccttcgaggt
+
+ 101 gaccggccag gaaacggtcg cccagatcaa ggctcatgta gcctcactgg
+
+ 151 agggcattgc cccggaagat caagtcgtgc tcctggcagg cgcgcccctg
+
+ 201 gaggatgagg ccactctggg ccagtgcggg gtggaggccc tgactaccct
+
+ 251 ggaagtagca ggccgcatgc ttggaggtaa agttcatggt tccctggccc
+
+ 301 gtgctggaaa agtgagaggt cagactccta aggtggccaa acaggagaag
+
+ 351 aagaagaaga agacaggtcg ggctaagcgg cggatgcagt acaaccggcg
+
+ 401 ctttgtcaac gttgtgccca cctttggcaa gaagaagggc cccaatgcca
+
+ 451 actcttaagt cttttgtaat tctggctttc tctaataaaa aagccactta
+
+ 501 gttcagtcaa aaaaaaaa
+

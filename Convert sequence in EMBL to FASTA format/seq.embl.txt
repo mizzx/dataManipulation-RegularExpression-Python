@@ -1,0 +1,55 @@
+ID   AMU73928   standard; DNA; STS; 283 BP.
+XX
+AC   U73928;
+XX
+SV   U73928.1
+XX
+NI   g1658104
+XX
+DT   19-NOV-1996 (Rel. 49, Created)
+DT   19-NOV-1996 (Rel. 49, Last updated, Version 1)
+XX
+DE   Apis mellifera minisatellite-like repeat region, complete sequence.
+XX
+KW   STS.
+XX
+OS   Apis mellifera (honeybee)
+OC   Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+Pterygota;
+OC   Neoptera; Endopterygota; Hymenoptera; Apocrita; Aculeata; Apoidea;
+OC   Apidae; Apis.
+XX
+RN   [1]
+RP   1-283
+RA   Rowe D.J., Rinderer T.E., Stelzer J.A., Oldroyd B.P., Crozier R.H.;
+RT   "Seven polymorphic microsatellite loci in honeybees (Apis mellifera)";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-283
+RA   Rowe D.J., Rinderer T.E., Stelzer J.A., Oldroyd B.P., Crozier R.H.;
+RT   ;
+RL   Submitted (11-OCT-1996) to the EMBL/GenBank/DDBJ databases.
+RL   Department of Genetics and Human Variation, LaTrobe University
+(Bundoora
+RL   campus), Bundoora, Victoria 3083, Australia
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..283
+FT                   /db_xref="taxon:7460"
+FT                   /organism="Apis mellifera"
+FT                   /strain="mellifera"
+FT                   /clone="GH forward"
+FT   repeat_region   76..209
+FT                   /rpt_family="minisatellite-like"
+FT                   /rpt_unit=76..107
+FT                   /rpt_type=TANDEM
+XX
+SQ   Sequence 283 BP; 79 A; 41 C; 31 G; 132 T; 0 other;
+     cccatgtccc agcggcgtat tgctttgcat cgcgaacgca ctttcaatgt cccagcggcg     60
+     tattgcttct attttataag taccagctaa attttttttt tttttttata agtaccagct     120
+     aaaatttttt tttttttttt ttataagtac cagctaaaat tttttttttt tttttttata     180
+     agtaccagct aaaatttttt ttttttttta taagttccag cggcgtattg ctttctgaaa     240
+     tttaaaaaaa aaaaaaaatt tttttttaat aatatattat ata                       283
+//
